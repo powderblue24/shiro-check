@@ -62,7 +62,7 @@
 <dependency>
 	    <groupId>com.github.powderblue24</groupId>
 	    <artifactId>shiro-check</artifactId>
-	    <version>Tag</version>
+	    <version>master-SNAPSHOT</version>
 	</dependency>
 
     </dependencies>
