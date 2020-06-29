@@ -59,10 +59,22 @@
             <artifactId>shiro-ehcache</artifactId>
             <version>1.2.4</version>
         </dependency>
-
+<dependency>
+	    <groupId>com.github.bigsizeme</groupId>
+	    <artifactId>shiro-check</artifactId>
+	    <version>Tag</version>
+	</dependency>
 
     </dependencies>
     
+  
+  <repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+  
     <build>
         <plugins>
             <plugin>
